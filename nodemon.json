@@ -1,0 +1,10 @@
+{
+  "whatch": [
+    "src"
+  ],
+  "ext": ".ts,.js",
+  "execMap": {
+    "ignore": [],
+    "exec": "npx ts-node .src/main.ts"
+  }
+}
